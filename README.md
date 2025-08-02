@@ -25,6 +25,7 @@
 ### Backend Development  
 <p>
   <img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=flat&logo=apachekafka&logoColor=white"/>
 </p>
 
 ### Web & Frameworks  
