@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="saksham221201" />
+</p>
+
 <h1 align="center">Hi there, I'm Saksham Joshi👋</h1>
 
 <p align="center">
