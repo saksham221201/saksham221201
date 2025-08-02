@@ -57,8 +57,12 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/saksham-joshi-a63388193/](https://www.linkedin.com/in/saksham-joshi-a63388193/)/"><img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>&nbsp;
-  <a href="mailto:sakshamjoshi1975@gmail.com"><img width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+  <a href="https://www.linkedin.com/in/saksham-joshi-a63388193/">
+    <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg">
+  </a>&nbsp;
+  <a href="mailto:sakshamjoshi1975@gmail.com">
+    <img width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+  </a>
 </p>
 
 ---
