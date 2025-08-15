@@ -13,7 +13,7 @@
 ## 🎯 About Me
 
 - 🔭 Currently building scalable things with **Java**, **Spring Boot**, and **Kafka**.
-- 📫 Reach me at: [sakshamjoshi1975@gmail.com](mailto:sakshamjoshi1975@gmail.com) || [Website: <a> href="https://sakshamjoshi22.vercel.app/" </a>]
+- 📫 Reach me at: [sakshamjoshi1975@gmail.com](mailto:sakshamjoshi1975@gmail.com) || [Website](https://sakshamjoshi22.vercel.app/)
 - 🧠 Fun Fact: I love converting ideas into scalable tech solutions 🚀
 
 ---
