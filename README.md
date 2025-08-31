@@ -63,6 +63,9 @@
   <a href="mailto:sakshamjoshi1975@gmail.com">
     <img width="32" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
   </a>
+  <a href="https://medium.com/@sakshamjoshi1975">
+    <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg">
+  </a>&nbsp;
 </p>
 
 ---
